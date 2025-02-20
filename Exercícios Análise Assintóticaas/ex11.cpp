@@ -1,0 +1,1 @@
+//11. É verdade que n2 = O(2n)?

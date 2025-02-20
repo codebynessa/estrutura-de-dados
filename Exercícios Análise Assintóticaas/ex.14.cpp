@@ -1,0 +1,1 @@
+//14. Suponha f(n) = 64nlog n e g(n) = 8n2, com n inteiro positivo. Para quais valores de n temos f(n) ≤ g(n)?
